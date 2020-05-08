@@ -11,3 +11,8 @@
 1. 抓取暴力网站的form/客服系统代码模块
 2. form/客服系统 信息提交模块
 3. 根据tel伪造其他信息的模块
+#### Use
+```
+    import callback
+    callback.tel('1212004330')
+```
